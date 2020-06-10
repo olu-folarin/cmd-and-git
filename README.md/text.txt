@@ -1,0 +1,2 @@
+#Lessons Off of Progate
+This repo was created through lessons taken on git and command line on progate.com
